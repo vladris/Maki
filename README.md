@@ -1,5 +1,7 @@
 # Maki
 
+<img src="https://github.com/vladris/Maki/blob/master/maki.jpg" width="300">
+
 A type library with .NET and Java versions.
 
 ## Maki.NET
